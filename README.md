@@ -1,5 +1,9 @@
 ## Hey, I'm Nauris! ✋
 
+I am a self-motivated and passionate software developer.
+
+I have experience with React, JavaScript/TypeScript, HTML & CSS, GIT, NextJS, PHP, NodeJS, MySQL, MongoDB, Docker, TDD.
+
 I am a person who loves to think and find logical explanations. I am purposeful and I don't tend to give up on difficulties - I try to find another solution to solve the problem. I have a lot of curiosity and when learning something new, I try to understand the essence of the core, I do not limit myself to superficial understanding. 
 I also believe that learning does not end with school, but continues throughout life.
 
