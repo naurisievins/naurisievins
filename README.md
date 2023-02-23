@@ -36,7 +36,7 @@ I also believe that learning does not end with school, but continues throughout 
 **2. Rock Paper Scissors game using React, i18n for multi-language and MySQL for storing result data**
   - Repo (Frontend) https://github.com/naurisievins/MD18-1-i18n-Simple-RPS-game-front
   - Repo (Backend) https://github.com/naurisievins/MD18-2-i18n-Simple-RPS-game-back
-  - Hosted (Frontend only) - https://https://simple-rock-paper-scissors-app.netlify.app/
+  - Hosted (Frontend only) - https://simple-rock-paper-scissors-app.netlify.app/
 
 **3. Animal sorting app using React, Redux and MongoDB**
   - Repo (Frontend) https://github.com/naurisievins/MD20-2-React-Redux-MongoDB-front
