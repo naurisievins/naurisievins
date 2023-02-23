@@ -1,11 +1,11 @@
 ## Hey, I'm Nauris! ✋
 
-I am a self-motivated and passionate software developer.
+As a software developer, I am highly self-motivated and passionate about my work.
+I have experience with a broad range of technologies, including React, JavaScript/TypeScript, HTML & CSS, GIT, Next.js, PHP, Node.js, MySQL, MongoDB, Docker, and TDD. 
 
-I have experience with React, JavaScript/TypeScript, HTML & CSS, GIT, NextJS, PHP, NodeJS, MySQL, MongoDB, Docker, TDD.
+Why choose programming as a career? Well, it's simply something that I love doing. As I started to explore different career paths, I found myself drawn back to programming. What could be better than combining your passion with your livelihood? And when it comes to IT, there are so many opportunities for growth and development. The industry is always changing and expanding, and I believe that it's going to continue to shape the future in a big way.
 
-I am a person who loves to think and find logical explanations. I am purposeful and I don't tend to give up on difficulties - I try to find another solution to solve the problem. I have a lot of curiosity and when learning something new, I try to understand the essence of the core, I do not limit myself to superficial understanding. 
-I also believe that learning does not end with school, but continues throughout life.
+I am a person who loves to think and find logical explanations. I am purposeful and do not tend to give up on difficulties. Instead, I try to find another solution to solve the problem. I have a lot of curiosity and when learning something new, I am always willing to understand the essence of the core. I do not limit myself to superficial understanding. Additionally, I believe that learning does not end with formal education but continues throughout life.
 
 ---
 ### My Toolbox:
