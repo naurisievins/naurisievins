@@ -30,16 +30,20 @@ I am a person who loves to think and find logical explanations. I am purposeful 
 ---
 ### Some Of My Works:
 
-**1. Memory game using TypeScript**
-  - Repo https://github.com/naurisievins/MD8-1-Memory-Game-No-frameworks
-  - Hosted https://memory-game-nofw.netlify.app/
+**1. Next.js recipe app**
+  - Repo https://github.com/naurisievins/MD21-1-Repetition-Nextjs13
+  - Hosted http://md-21-1-repetition-nextjs13.vercel.app
 
-**2. Rock Paper Scissors game using React, i18n for multi-language and MySQL for storing result data**
+**2. Memory game using TypeScript**
+  - Repo https://github.com/naurisievins/MD8-1-Memory-Game-No-frameworks
+  - Hosted https://memory-game-nofw.netlify.app
+
+**3. Rock Paper Scissors game using React, i18n for multi-language and MySQL for storing result data**
   - Repo (Frontend) https://github.com/naurisievins/MD18-1-i18n-Simple-RPS-game-front
   - Repo (Backend) https://github.com/naurisievins/MD18-2-i18n-Simple-RPS-game-back
   - Hosted (Frontend only) - https://simple-rock-paper-scissors-app.netlify.app/
 
-**3. Animal sorting app using React, Redux and MongoDB**
+**4. Animal sorting app using React, Redux and MongoDB**
   - Repo (Frontend) https://github.com/naurisievins/MD20-2-React-Redux-MongoDB-front
   - Repo (Backend) https://github.com/naurisievins/MD20-3-React-Redux-MongoDB-back
 
