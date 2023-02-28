@@ -32,7 +32,7 @@ I am a person who loves to think and find logical explanations. I am purposeful 
 
 **1. Next.js recipe app**
   - Repo https://github.com/naurisievins/MD21-1-Repetition-Nextjs13
-  - Hosted http://md-21-1-repetition-nextjs13.vercel.app
+  - Hosted <a href="http://md-21-1-repetition-nextjs13.vercel.app" target="_blank">Application</a>
 
 **2. Memory game using TypeScript**
   - Repo https://github.com/naurisievins/MD8-1-Memory-Game-No-frameworks
