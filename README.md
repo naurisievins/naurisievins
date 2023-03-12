@@ -1,7 +1,7 @@
 ## Hey, I'm Nauris! ✋
 
 As a software developer, I am highly self-motivated and passionate about my work.
-I have experience with a broad range of technologies, including React, Vue, Angular, JavaScript/TypeScript, HTML & CSS, GIT, Next.js, PHP, Node.js, MySQL, MongoDB, Docker, and TDD.
+I have experience with a broad range of technologies, including JavaScript/TypeScript, React, Vue, Angular, HTML & CSS, GIT, Next.js, PHP, Node.js, MySQL, MongoDB, Docker, and TDD.
 
 Why choose programming as a career? Well, it's simply something that I love doing. As I started to explore different career paths, I found myself drawn back to programming. What could be better than combining your passion with your livelihood? And when it comes to IT, there are so many opportunities for growth and development. The industry is always changing and expanding, and I believe that it's going to continue to shape the future in a big way.
 
