@@ -1,7 +1,7 @@
 ## Hey, I'm Nauris! ✋
 
 As a software developer, I am highly self-motivated and passionate about my work.
-I have experience with a broad range of technologies, including React, JavaScript/TypeScript, HTML & CSS, GIT, Next.js, PHP, Node.js, MySQL, MongoDB, Docker, and TDD. 
+I have experience with a broad range of technologies, including React, Vue, Angular, JavaScript/TypeScript, HTML & CSS, GIT, Next.js, PHP, Node.js, MySQL, MongoDB, Docker, and TDD.
 
 Why choose programming as a career? Well, it's simply something that I love doing. As I started to explore different career paths, I found myself drawn back to programming. What could be better than combining your passion with your livelihood? And when it comes to IT, there are so many opportunities for growth and development. The industry is always changing and expanding, and I believe that it's going to continue to shape the future in a big way.
 
@@ -20,6 +20,8 @@ I am a person who loves to think and find logical explanations. I am purposeful 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue logo" width="50px" height="50px" />
 
 ---
 ### My Stats:
