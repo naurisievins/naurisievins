@@ -26,8 +26,8 @@ I am a person who loves to think and find logical explanations. I am purposeful 
 ---
 ### My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naurisievins&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naurisievins&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naurisievins&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=naurisievins&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Some Of My Works:
